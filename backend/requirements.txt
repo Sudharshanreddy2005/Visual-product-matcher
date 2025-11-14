@@ -1,0 +1,10 @@
+flask
+flask-cors
+pymongo
+tensorflow==2.12.0
+scikit-learn==1.3.2
+pillow==10.2.0
+numpy==1.23.5
+requests
+opencv-python
+gunicorn
